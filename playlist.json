@@ -1,0 +1,26 @@
+{
+  "type": "list",
+  "headline": "ჩემი ფილმების სია",
+  "template": {
+    "type": "separate",
+    "layout": "0,0,4,3",
+    "color": "msx-glass"
+  },
+  "items": [
+    {
+      "title": "GeMovie",
+      "titleFooter": "gemovie.tv",
+      "action": "link:https://gemovie.tv"
+    },
+    {
+      "title": "MyKadri",
+      "titleFooter": "mykadri.tv",
+      "action": "link:https://mykadri.tv"
+    },
+    {
+      "title": "SilkGo",
+      "titleFooter": "silkgo.ge",
+      "action": "link:https://silkgo.ge"
+    }
+  ]
+}
